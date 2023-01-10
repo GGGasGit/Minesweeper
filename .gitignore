@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Topics/The Math library/Fourth root/out/
+/Topics/The Math library/Fourth root/out/production/classes/
+/Topics/The Math library/Quadratic equation/out/
+/Topics/The Math library/Quadratic equation/out/production/classes/
+/Topics/The Math library/Sine and cosine/out/
+/Topics/The Math library/Sine and cosine/out/production/classes/
+/Topics/The Math library/The angle between vectors/out/
+/Topics/The Math library/The angle between vectors/out/production/classes/

@@ -1,0 +1,1 @@
+fun Int.lastDigit(): Int = this.toString()[this.toString().lastIndex].digitToInt()
